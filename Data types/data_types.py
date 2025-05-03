@@ -1,0 +1,5 @@
+num1 = input("Enter a number or else I will send a monster under ur bed: ")
+num2 = input("Enter another number or else I will send a monster under ur bed: ")
+print(f"The data type of num1 is: {type (num1)}")
+print(f"The data type of num2 is: {type(num2)}")
+print(f"The sum of ur numbers are:{float(num1) + float(num2)}")

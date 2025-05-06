@@ -7,7 +7,7 @@ print(f"The variables together are: {var1 +var2}")
 variable_string = "Sthitoproggo Noirrit A.K.A Versa_Proggo"
 print({variable_string [::3]})
 print({variable_string [0::1]})
-print({variable_string [::-9999999999999]})
+print({variable_string [::-1]})
 
 #Upper Case
 word = input("Enter a word: ")

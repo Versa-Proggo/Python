@@ -1,0 +1,9 @@
+a = 10
+print(f"Binary of a = {bin (a)}")
+b = 20
+print(f"Binary of b = {bin (b)}")
+print(f"a<<1 = {a<<1}")
+print(f"a>>1 = {a>>1}")
+print(f"a and b = {a & b}")
+print(f"a or b = {a| b}")
+print(f"a xor b = {a ^ b}")

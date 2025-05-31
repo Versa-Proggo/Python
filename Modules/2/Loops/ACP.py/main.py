@@ -17,3 +17,8 @@ for i in range(1,n):
     sum += i 
     print(f"Sum till i = {i}, sum = {sum}")
     print(f"Sum till n = {n}, sum = {sum}")
+
+power =  int(input("Enter power"))
+for i in range (1,n+1):
+    power **= i 
+    print(f"power till i ={i}, power = {power} \n Total power:{power}")
